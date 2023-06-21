@@ -17,8 +17,8 @@
 void tcp_server_loop(void *);
 
 // auth mode WPA2 for home wifi
-#define ESP_WIFI_SSID "Airtel49"
-#define ESP_WIFI_PASS "ringrong"
+#define ESP_WIFI_SSID "--your-own-wifi-ssid" 
+#define ESP_WIFI_PASS "your-own-wifi-password"
 
 // -------- forward declarations ---//
 

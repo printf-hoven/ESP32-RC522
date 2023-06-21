@@ -388,7 +388,7 @@ bool RC522::GetUID(char uidString[20 + 1])
 {
     if (!send_REQA_command())
     {
-        writeDebugLog("PICCsendREQACommand failed");
+        writeDebugLog("PICCsendREQACommand waiting for card...");
 
         return false;
     }
