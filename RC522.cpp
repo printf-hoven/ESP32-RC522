@@ -2,8 +2,9 @@
 
 This work was impossible without this great work:- https://github.com/miguelbalboa/rfid/blob/master/src/MFRC522.h
 
-Please give credits if you use this, or benefit from this work.
+Please give credits if you use, or build-upon or benefit from this work.
 
+regards,
 https://hoven.in
 
 */
