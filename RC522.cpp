@@ -1,3 +1,12 @@
+/*
+This work was impossible without this great work:- https://github.com/miguelbalboa/rfid/blob/master/src/MFRC522.h
+
+Please give credits if you use this, or benefit from this work.
+
+https://hoven.in
+
+*/
+
 #include "RC522.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
